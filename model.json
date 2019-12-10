@@ -3,18 +3,33 @@
     "images": [
         {        
           "id": 1,
+          "version": 1,
           "canonicalURL": "https://pixabay.com/get/52e0d0424d55ab14f6d1867dda6d367a153fd8ec55596c4870287edd954ec55cba/kanban-4051777_1920.jpg",
           "imageFile":  "kanban-4051777_1920.jpg",
           "size": "1920" 
         },
         {        
           "id": 2,
+          "version": 1,
           "canonicalURL": "https://pixabay.com/images/download/same-2747280_1280.png",
           "imageFile":  "same-2747280_1280.png",
           "size": "1920" 
+        },
+        {        
+          "id": 3,
+          "version": 1,
+          "canonicalURL": "https://pixabay.com/images/download/macro-1452987_1920.jpg",
+          "imageFile":  "macro-1452987_1920.jpg",
+          "size": "1920" 
+        },
+        {        
+          "id": 3,
+          "version": 1,
+          "canonicalURL": "https://pixabay.com/images/download/thought-2123971_1920.jpg",
+          "imageFile":  "thought-2123971_1920",
+          "size": "1920" 
         }
-      ]
-           
+      ]           
 }
 
 
