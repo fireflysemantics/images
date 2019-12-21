@@ -63,20 +63,6 @@
           "canonicalURL": "https://pixabay.com/images/download/truth-4432841_1280.png",
           "imageFile":  "truth-4432841_1280.png",
           "size": "1920"
-        },                        
-        {        
-          "id": 9,
-          "version": 1,
-          "canonicalURL": "https://pixabay.com/images/download/nature-2129493_1920.jpg",
-          "imageFile":  "nature-2129493_1920.jpg",
-          "size": "1920"
-        },
-        {        
-          "id": 10,
-          "version": 1,
-          "canonicalURL": "https://pixabay.com/images/download/seo-1906465_1280.png",
-          "imageFile":  "seo-1906465_1280.png",
-          "size": "1920"
         }
       ]
 }
